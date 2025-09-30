@@ -5,3 +5,5 @@ python-jose[cryptography]
 python-dotenv
 opensearch-py==2.4.0
 aiohttp==3.9.5
+sqlalchemy
+psycopg2-binary
